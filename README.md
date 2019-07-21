@@ -9,4 +9,4 @@ The code in the beginning that is commented out is mom's spaghetti. Code below t
 I kept the commented out code as a way to teach myself how to use Classes. Any tips or advice on how to improve is always welcomed
 
 arguement 1 is a string of parent directory where the tree will be created
-arg 2 is an array of names that will be assigned to created folders and text file. files and folders will have the same name
+arg 2 is an array of names that will be assigned to created folders and text file. 
