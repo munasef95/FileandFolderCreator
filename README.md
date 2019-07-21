@@ -1,5 +1,6 @@
 # FileandFolderCreator
 Hello all,
+
 I  created this program as a way to learn python and to create folders with corresponding txt files inside based on the names in an array
 
 Code is a class to create folders with empty text files in them with the same name as the folder. 
